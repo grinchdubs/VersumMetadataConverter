@@ -1,0 +1,1 @@
+.\Replace-InFilesUsingList.ps1 -List "metadataToJsonTest.csv" -Files "metadata.json"
