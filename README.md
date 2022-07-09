@@ -25,6 +25,6 @@ If youh have any issues with permissions in Powershell please follow the instruc
 https://www.mssqltips.com/sqlservertip/2702/setting-the-powershell-execution-policy/
 
 ### Code Credit
-The Powershell script was originally found bellow
+The Powershell script was originally found below
 
 https://outcompute.com/2013/04/15/how-replace-multiple-strings-in-text-files-in-powershell/
