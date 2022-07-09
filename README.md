@@ -19,3 +19,8 @@ The *Replace-InFilesUsingList.ps1* is a Powershell script. From Powershell, chan
 
 Once this runs, open *metadata.json* and you will see it contains the information from the csv file.
 
+### Issues
+If youh have any issues with permissions in Powershell please follow the instructions from the link below
+
+https://www.mssqltips.com/sqlservertip/2702/setting-the-powershell-execution-policy/
+
